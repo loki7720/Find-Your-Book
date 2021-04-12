@@ -11,3 +11,7 @@ The application is much helpful for the users who are interested in reading book
 based application to be able to interact in a much easier and faster way where they can share, exchange or 
 donate books by using this app.
 
+# Technologies used in developing this app:
+JAVA is used for developing this App in Android Studio programming environment and firebase is used as database. 
+The application requires a minimum Android version of 8.0 (Oreo).
+
