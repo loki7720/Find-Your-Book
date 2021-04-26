@@ -11,7 +11,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import static androidx.navigation.Navigation.findNavController;
 
-public class MainMenu extends AppCompatActivity 
+public class MainMenu extends AppCompatActivity { 
 
     BottomNavigationView bottomNavigationView;
     NavController navController;
