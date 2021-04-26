@@ -1,0 +1,64 @@
+com/example/booksharing/BookAdapter.java
+ com.example.booksharing.BookAdapter
+ com.example.booksharing.BookAdapter$1
+ com.example.booksharing.BookAdapter$1$1
+ com.example.booksharing.BookAdapter$1$2
+ com.example.booksharing.BookAdapter$2
+ com.example.booksharing.BookAdapterViewHolder
+com/example/booksharing/Signup.java
+ com.example.booksharing.Signup
+ com.example.booksharing.Signup$1
+ com.example.booksharing.Signup$2
+ com.example.booksharing.Signup$3
+ com.example.booksharing.Signup$4
+ com.example.booksharing.Signup$5
+com/example/booksharing/SplashScreen.java
+ com.example.booksharing.SplashScreen
+ com.example.booksharing.SplashScreen$1
+com/example/booksharing/EditBook.java
+ com.example.booksharing.EditBook
+ com.example.booksharing.EditBook$1
+ com.example.booksharing.EditBook$2
+ com.example.booksharing.EditBook$3
+ com.example.booksharing.EditBook$4
+ com.example.booksharing.EditBook$5
+ com.example.booksharing.EditBook$6
+ com.example.booksharing.EditBook$6$1
+com/example/booksharing/PostBook.java
+ com.example.booksharing.PostBook
+ com.example.booksharing.PostBook$1
+ com.example.booksharing.PostBook$2
+ com.example.booksharing.PostBook$3
+ com.example.booksharing.PostBook$4
+ com.example.booksharing.PostBook$5
+ com.example.booksharing.PostBook$5$1
+ com.example.booksharing.PostBook$5$1$1
+com/example/booksharing/BooksModel.java
+ com.example.booksharing.BooksModel
+com/example/booksharing/BuildConfig.java
+ com.example.booksharing.BuildConfig
+com/example/booksharing/MainMenu.java
+ com.example.booksharing.MainMenu
+com/example/booksharing/CatalogFragment.java
+ com.example.booksharing.CatalogFragment
+ com.example.booksharing.CatalogFragment$1
+ com.example.booksharing.CatalogFragment$2
+com/example/booksharing/ProfileFragment.java
+ com.example.booksharing.ProfileFragment
+ com.example.booksharing.ProfileFragment$1
+ com.example.booksharing.ProfileFragment$2
+ com.example.booksharing.ProfileFragment$3
+com/example/booksharing/EditProfile.java
+ com.example.booksharing.EditProfile
+ com.example.booksharing.EditProfile$1
+ com.example.booksharing.EditProfile$2
+ com.example.booksharing.EditProfile$3
+ com.example.booksharing.EditProfile$4
+com/example/booksharing/HomeFragment.java
+ com.example.booksharing.HomeFragment
+com/example/booksharing/Login.java
+ com.example.booksharing.Login
+ com.example.booksharing.Login$1
+ com.example.booksharing.Login$2
+ com.example.booksharing.Login$3
+ com.example.booksharing.Login$3$1

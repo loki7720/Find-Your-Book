@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EDB445</color>
+    <color name="colorPrimaryDark">#EDB445</color>
+    <color name="colorAccent">#EDB445</color>
+
+
+    <color name="LightGray">#C6C6C8</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="Logout">#DF5448</color>
+    <color name="BottomNavBackground">#F3F3F3</color>
+    <color name="LightLabel">#66000000</color>
+</resources>
